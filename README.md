@@ -2,7 +2,7 @@
 
 👋 I’m a Flutter App developer
 
-🌱  Just graduated with a B.Tech in CSE!
+🌱   graduate with a B.Tech in CSE!
 
 📫 You can reach me - [divyanshukukreja1@gmail.com](mailto:divyanshukukreja1@gmail.com)
 
